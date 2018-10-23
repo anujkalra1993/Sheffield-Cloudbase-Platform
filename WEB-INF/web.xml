@@ -74,7 +74,7 @@
   </context-param>
   <context-param>
     <param-name>url</param-name>
-    <param-value>jdbc:mysql://localhost:3306/cloudbase</param-value>
+    <param-value>cloudbase.c27qqxl3ggqj.ap-south-1.rds.amazonaws.com</param-value>
   </context-param>
   <context-param>
     <param-name>dbname</param-name>
@@ -86,6 +86,6 @@
   </context-param>
   <context-param>
   	<param-name>network_name</param-name>
-  	<param-value>http://localhost:8080/</param-value>
+  	<param-value>http://34.222.109.192:8080/</param-value>
   </context-param>
 </web-app>
